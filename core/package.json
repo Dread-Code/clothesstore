@@ -35,7 +35,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "@usp/components": "file:../packages/usp-components",
+    "@cs/components": "file:../packages/cs-components",
     "axios": "^0.21.1",
     "gsap": "^3.7.0",
     "prop-types": "^15.7.2",

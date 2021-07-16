@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from '@usp/components'
+import { Button } from '@cs/components'
 import { hot } from 'react-hot-loader/root'
 
 const App = () => (

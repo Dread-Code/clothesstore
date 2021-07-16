@@ -1,5 +1,5 @@
 {
-  "name": "@usp/components",
+  "name": "@cs/components",
   "version": "1.0.0",
   "description": "",
   "module": "build/componentes.bundle.min.js",
