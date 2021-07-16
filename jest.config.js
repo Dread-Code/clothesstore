@@ -9,7 +9,7 @@ module.exports = {
     },
     {
       displayName: '@usp/components',
-      roots: ['<rootDir>/packages/usp-components/stories/'],
+      roots: ['<rootDir>/packages/cs-components/stories/'],
       ...basic
     }
   ],

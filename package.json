@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest --watchAll",
     "jest": "jest",
-    "lint": "eslint core/src/**/*.{js,jsx} packages/usp-components/stories/**/*.{js,jsx}",
+    "lint": "eslint core/src/**/*.{js,jsx} packages/cs-components/stories/**/*.{js,jsx}",
     "prepare": "husky install"
   },
   "author": "Lucas Ospina A.",
