@@ -1,0 +1,10 @@
+@import '../../sass/index.scss';
+
+.a-header__button {
+  font-family: Helvetica;
+  background: $white;
+  border: 1px solid $black;
+  opacity: 1;
+  padding: 0.5em 1.1em;
+  font-size: 1.123em;
+}
