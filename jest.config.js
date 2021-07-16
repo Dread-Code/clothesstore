@@ -8,7 +8,7 @@ module.exports = {
       ...basic
     },
     {
-      displayName: '@usp/components',
+      displayName: 'packages/components',
       roots: ['<rootDir>/packages/cs-components/components/'],
       ...basic
     }
