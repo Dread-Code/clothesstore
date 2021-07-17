@@ -29,3 +29,42 @@ exports[`Storyshots Atom/SearchBar Default 1`] = `
   </button>
 </form>
 `;
+
+exports[`Storyshots Atom/ShoppingCartButton Default 1`] = `
+<div
+  className="a-header__shoppingCartButton"
+>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    <img
+      alt="ShoppingCartIcon"
+      src={[Function]}
+    />
+  </button>
+</div>
+`;
+
+exports[`Storyshots Atom/ShoppingCartButton Notify 1`] = `
+<div
+  className="a-header__shoppingCartButton"
+>
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    <img
+      alt="ShoppingCartIcon"
+      src={[Function]}
+    />
+  </button>
+  <div
+    className="burble"
+  >
+    <span>
+      5
+    </span>
+  </div>
+</div>
+`;
