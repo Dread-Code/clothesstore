@@ -29,3 +29,39 @@
     }
   }
 }
+
+@media (max-width: 320px) {
+  .a-header__SearchBar {
+    input {
+      height: 2em;
+      width: 15em;
+      font-size: 1em;
+    }
+
+    button {
+      img {
+        padding: 0.2em 0.4em;
+        width: 1em;
+        height: 1em;
+      }
+    }
+  }
+}
+
+@media (max-width: 440px) {
+  .a-header__SearchBar {
+    input {
+      height: 2em;
+      width: 19em;
+      font-size: 1.2em;
+    }
+
+    button {
+      img {
+        padding: 0.2em 0.4em;
+        width: 1em;
+        height: 1em;
+      }
+    }
+  }
+}
